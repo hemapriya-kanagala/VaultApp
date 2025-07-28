@@ -70,7 +70,7 @@ Everything worked as expected.
 
 Here’s what the contract and deployment look like in Remix:
 
-![Remix Contract Screenshot]()
+![Remix Contract Screenshot](https://github.com/hemapriya-kanagala/VaultApp/blob/main/Remix%20Screenshot.png?raw=true)
 
 ---
 
